@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = taxi
+build_property.ProjectDir = C:\Users\abcde\Downloads\Project_Code\Project_Code\Code\azure-stream-analytics-data-pipeline\onprem\DataLoader\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
